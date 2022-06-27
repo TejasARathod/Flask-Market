@@ -120,7 +120,7 @@ Step16: Final setup for selling items.
 
 In the terminal:
 
-    > FLASK_APP=market2.py
+    > FLASK_APP=market.py
     > set FLASK_DEBUG=1
     > python run.py 
 
