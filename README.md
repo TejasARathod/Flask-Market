@@ -3,6 +3,17 @@
 
 An e-commerce website with its own authentication system created using flask that acts as a market. It serves basic functionalities such as Logging In , Registering New Account , Navigating through tabs, Validating each process ,Redirecting users accordingly and much more.
 Key features include a budget for user to buy or sell products in the market. 
+
+## Index
+
+- Workflow
+- Tech Stack
+- Deployement
+- Acknowledgement
+- Authors
+- License
+- Website Preview
+
 ## WorkFlow
 Step1: Setting up Flask and Running Basic Website ; playing with URLs (market.py)
 
